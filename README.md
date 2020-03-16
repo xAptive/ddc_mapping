@@ -5,6 +5,6 @@ I was having difficulty finding a simple dataset that mapped DDC numbers to thei
 
 Usage:
 
-$ pdftotext ddc23-summaries.pdf   # Parse pdf to text data
+$ pdftotext ddc23-summaries.pdf
 
 $ python3 parse_ddc.py < ddc23-summaries.txt
