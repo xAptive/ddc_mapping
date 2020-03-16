@@ -1,0 +1,1110 @@
+000,"Computer science, information & general works",1
+100,Philosophy & psychology,1
+200,Religion,1
+300,Social sciences,1
+400,Language,1
+500,Science,1
+600,Technology,1
+700,Arts & recreation,1
+800,Literature,1
+900,History & geography,1
+000,"Computer science, knowledge & systems",2
+010,Bibliographies,2
+020,Library & information sciences,2
+030,Encyclopedias & books of facts,2
+040,[Unassigned],2
+050,"Magazines, journals & serials",2
+060,"Associations, organizations & museums",2
+070,"News media, journalism & publishing",2
+080,Quotations,2
+090,Manuscripts & rare books,2
+100,Philosophy,2
+110,Metaphysics,2
+120,Epistemology,2
+130,Parapsychology & occultism,2
+140,Philosophical schools of thought,2
+150,Psychology,2
+160,Philosophical logic,2
+170,Ethics,2
+180,"Ancient, medieval & eastern philosophy",2
+190,Modern western philosophy,2
+200,Religion,2
+210,Philosophy & theory of religion,2
+220,The Bible,2
+230,Christianity,2
+240,Christian practice & observance,2
+250,Christian pastoral practice & religious orders,2
+260,"Christian organization, social work & worship",2
+270,History of Christianity,2
+280,Christian denominations,2
+290,Other religions,2
+300,"Social sciences, sociology & anthropology",2
+310,Statistics,2
+320,Political science,2
+330,Economics,2
+340,Law,2
+350,Public administration & military science,2
+360,Social problems & social services,2
+370,Education,2
+380,"Commerce, communications & transportation",2
+390,"Customs, etiquette & folklore",2
+400,Language,2
+410,Linguistics,2
+420,English & Old English languages,2
+430,German & related languages,2
+440,French & related languages,2
+450,"Italian, Romanian & related languages",2
+460,"Spanish, Portuguese, Galician",2
+470,Latin & Italic languages,2
+480,Classical & modern Greek languages,2
+490,Other languages,2
+500,Science,2
+510,Mathematics,2
+520,Astronomy,2
+530,Physics,2
+540,Chemistry,2
+550,Earth sciences & geology,2
+560,Fossils & prehistoric life,2
+570,Biology,2
+580,Plants (Botany),2
+590,Animals (Zoology),2
+600,Technology,2
+610,Medicine & health,2
+620,Engineering,2
+630,Agriculture,2
+640,Home & family management,2
+650,Management & public relations,2
+660,Chemical engineering,2
+670,Manufacturing,2
+680,Manufacture for specific uses,2
+690,Construction of buildings,2
+700,Arts,2
+710,Area planning & landscape architecture,2
+720,Architecture,2
+730,"Sculpture, ceramics & metalwork",2
+740,Graphic arts & decorative arts,2
+750,Painting,2
+760,Printmaking & prints,2
+770,"Photography, computer art, film, video",2
+780,Music,2
+790,"Sports, games & entertainment",2
+800,"Literature, rhetoric & criticism",2
+810,American literature in English,2
+820,English & Old English literatures,2
+830,German & related literatures,2
+840,French & related literatures,2
+850,"Italian, Romanian & related literatures",2
+860,"Spanish, Portuguese, Galician literatures",2
+870,Latin & Italic literatures,2
+880,Classical & modern Greek literatures,2
+890,Other literatures,2
+900,History,2
+910,Geography & travel,2
+920,Biography & genealogy,2
+930,History of ancient world (to ca. 499),2
+940,History of Europe,2
+950,History of Asia,2
+960,History of Africa,2
+970,History of North America,2
+980,History of South America,2
+990,History of other areas,2
+000,Knowledge,3
+001,The book,3
+002,Systems,3
+003,Computer science,3
+004,"Computer programming, programs, data, security",3
+005,Special computer methods,3
+006,[Unassigned],3
+007,[Unassigned],3
+008,[Unassigned],3
+009,Bibliography,3
+010,Bibliographies and catalogs,3
+011,Bibliographies and catalogs of individuals,3
+012,[Unassigned],3
+013,Of anonymous & pseudonymous works,3
+014,Of works from specific places,3
+015,Of works on specific subjects,3
+016,Of works held in specific collections or offered for sale,3
+017,[Unassigned],3
+018,[Unassigned],3
+019,Library and information sciences,3
+020,Relationships of libraries and archives,3
+021,Administration of physical plant,3
+022,Personnel management,3
+023,[Unassigned],3
+024,Operations of libraries and archives,3
+025,Libraries and archives devoted to specific subjects,3
+026,General libraries and archives,3
+027,Reading and use of other information media,3
+028,[Unassigned],3
+029,General encyclopedic works,3
+030,General encyclopedic works in American English,3
+031,General encyclopedic works in English,3
+032,Encyclopedias in other Germanic languages,3
+033,"Encyclopedias in French, Occitan, Catalan",3
+034,"Encyclopedias in Italian, Romanian & related languages",3
+035,"Encyclopedias in Spanish, Portuguese, Galician",3
+036,General encyclopedic works in Slavic languages,3
+037,General encyclopedic works in Scandinavian languages,3
+038,General encyclopedic works in other languages,3
+039,[Unassigned],3
+040,[Unassigned],3
+041,[Unassigned],3
+042,[Unassigned],3
+043,[Unassigned],3
+044,[Unassigned],3
+045,[Unassigned],3
+046,[Unassigned],3
+047,[Unassigned],3
+048,[Unassigned],3
+049,Consult schedules for complete and exact headings,3
+050,General serial publications,3
+051,General serial publications in American English,3
+052,General serial publications in English,3
+053,Serials in other Germanic languages,3
+054,"Serials in French, Occitan, Catalan",3
+055,"Serials in Italian, Romanian & related languages",3
+056,"Serials in Spanish, Portuguese, Galician",3
+057,General serial publications in Slavic languages,3
+058,Serials in Scandinavian languages,3
+059,General serial publications in other languages,3
+060,General organizations and museology,3
+061,General organizations in North America,3
+062,General organizations in British Isles,3
+063,General organizations in Germany,3
+064,General organizations in France and Monaco,3
+065,General organizations in Italy,3
+066,General organizations in Spain,3
+067,General organizations in Russia,3
+068,General organizations in other geographic areas,3
+069,Museology (Museum science),3
+070,"Documentary, educational, news media; journalism",3
+071,Journalism and newspapers in North America,3
+072,Journalism and newspapers in British Isles,3
+073,Journalism and newspapers in Germany,3
+074,Journalism and newspapers in France and Monaco,3
+075,Journalism and newspapers in Italy,3
+076,Journalism and newspapers in Spain,3
+077,Journalism and newspapers in Russia,3
+078,Journalism and newspapers in Scandinavia,3
+079,Newspapers in other geographic areas,3
+080,General collections,3
+081,General collections in American English,3
+082,General collections in English,3
+083,General collections in other Germanic languages,3
+084,"General collections in French, Occitan, Catalan",3
+085,"Collections in Italian, Romanian & related languages",3
+086,"Collections in Spanish, Portuguese, Galician",3
+087,General collections in Slavic languages,3
+088,General collections in Scandinavian languages,3
+089,General collections in other languages,3
+090,"Manuscripts, rare books",3
+091,Manuscripts,3
+092,Block books,3
+093,Incunabula,3
+094,Printed books,3
+095,Books notable for bindings,3
+096,Books notable for illustrations and materials,3
+097,Books notable for ownership or origin,3
+098,"Prohibited works, forgeries, hoaxes",3
+099,Books notable for format,3
+100,Philosophy & psychology,3
+101,Theory of philosophy,3
+102,Miscellany of philosophy,3
+103,Dictionaries & encyclopedias,3
+104,[Unassigned],3
+105,Serial publications of philosophy,3
+106,Organizations & management,3
+107,"Education, research & related topics",3
+108,Groups of people,3
+109,History and collected biography,3
+110,Metaphysics,3
+111,Ontology,3
+112,[Unassigned],3
+113,Cosmology (Philosophy of nature),3
+114,Space,3
+115,Time,3
+116,Change,3
+117,Structure,3
+118,Force and energy,3
+119,Number and quantity,3
+120,"Epistemology, causation, humankind",3
+121,Epistemology (Theory of knowledge),3
+122,Causation,3
+123,Determinism and indeterminism,3
+124,Teleology,3
+125,[Unassigned],3
+126,The self,3
+127,The unconscious and the subconscious,3
+128,Humankind,3
+129,Origin and destiny of individual souls,3
+130,Parapsychology and occultism,3
+131,Parapsychological and occult methods,3
+132,[Unassigned],3
+133,Specific topics in parapsychology & occultism,3
+134,[Unassigned],3
+135,Dreams and mysteries,3
+136,[Unassigned],3
+137,Divinatory graphology,3
+138,Physiognomy,3
+139,Phrenology,3
+140,Specific philosophical schools,3
+141,Idealism and related systems,3
+142,Critical philosophy,3
+143,Bergsonism and intuitionism,3
+144,Humanism and related systems,3
+145,Sensationalism,3
+146,Naturalism and related systems,3
+147,Pantheism and related systems,3
+148,"Dogmatism, eclecticism, liberalism, etc.",3
+149,Other philosophical systems and doctrines,3
+150,Psychology,3
+151,[Unassigned],3
+152,"Perception, movement, emotions & drives",3
+153,Conscious mental processes & intelligence,3
+154,Subconscious & altered states,3
+155,Differential & developmental psychology,3
+156,Comparative psychology,3
+157,[Unassigned],3
+158,Applied psychology,3
+159,[Unassigned],3
+160,Philosophical logic,3
+161,Induction,3
+162,Deduction,3
+163,[Unassigned],3
+164,[Unassigned],3
+165,Fallacies and sources of error,3
+166,Syllogisms,3
+167,Hypotheses,3
+168,Argument and persuasion,3
+169,Analogy,3
+170,Ethics (Moral philosophy),3
+171,Ethical systems,3
+172,Political ethics,3
+173,Ethics of family relationships,3
+174,Occupational ethics,3
+175,Ethics of recreation & leisure,3
+176,Ethics of sex and reproduction,3
+177,Ethics of social relations,3
+178,Ethics of consumption,3
+179,Other ethical norms,3
+180,"Ancient, medieval, eastern philosophy",3
+181,Eastern philosophy,3
+182,Pre-Socratic Greek philosophies,3
+183,"Sophistic, Socratic, related philosophies",3
+184,Platonic philosophy,3
+185,Aristotelian philosophy,3
+186,Skeptic and Neoplatonic philosophies,3
+187,Epicurean philosophy,3
+188,Stoic philosophy,3
+189,Medieval western philosophy,3
+190,Modern western philosophy,3
+191,Philosophy of United States and Canada,3
+192,Philosophy of British Isles,3
+193,Philosophy of Germany and Austria,3
+194,Philosophy of France,3
+195,Philosophy of Italy,3
+196,Philosophy of Spain and Portugal,3
+197,Philosophy of Russia,3
+198,Philosophy of Scandinavia and Finland,3
+199,Philosophy of other geographic areas,3
+200,Religion,3
+201,Religious mythology & social theology,3
+202,Doctrines,3
+203,Public worship and other practices,3
+204,"Religious experience, life, practice",3
+205,Religious ethics,3
+206,Leaders and organization,3
+207,Missions and religious education,3
+208,Sources,3
+209,Sects and reform movements,3
+210,Philosophy and theory of religion,3
+211,Concepts of God,3
+212,"Existence, knowability & attributes of God",3
+213,Creation,3
+214,Theodicy,3
+215,Science and religion,3
+216,[Unassigned],3
+217,[Unassigned],3
+218,Humankind,3
+219,[Unassigned],3
+220,Bible,3
+221,Old Testament (Tanakh),3
+222,Historical books of Old Testament,3
+223,Poetic books of Old Testament,3
+224,Prophetic books of Old Testament,3
+225,New Testament,3
+226,Gospels and Acts,3
+227,Epistles,3
+228,Revelation (Apocalypse),3
+229,Apocrypha and pseudepigrapha,3
+230,Christianity,3
+231,God,3
+232,Jesus Christ and his family,3
+233,Humankind,3
+234,Salvation and grace,3
+235,Spiritual beings,3
+236,Eschatology,3
+237,[Unassigned],3
+238,Creeds & catechisms,3
+239,Apologetics and polemics,3
+240,Christian moral and devotional theology,3
+241,Christian ethics,3
+242,Devotional literature,3
+243,Evangelistic writings for individuals,3
+244,[Unassigned],3
+245,[Unassigned],3
+246,Use of art in Christianity,3
+247,Church furnishings and related articles,3
+248,"Christian experience, practice, life",3
+249,Christian observances in family life,3
+250,Local Christian church and religious orders,3
+251,Preaching (Homiletics),3
+252,Texts of sermons,3
+253,Pastoral work (Pastoral theology),3
+254,Local church administration,3
+255,Religious congregations and orders,3
+256,[Unassigned],3
+257,[Unassigned],3
+258,[Unassigned],3
+259,Pastoral care of families & kinds of persons,3
+260,Christian social and ecclesiastical theology,3
+261,Social theology and interreligious relations,3
+262,Ecclesiology,3
+263,"Days, times, places of religious observance",3
+264,Public worship,3
+265,"Sacraments, other rites and acts",3
+266,Missions,3
+267,Associations for religious work,3
+268,Religious education,3
+269,Spiritual renewal,3
+270,"History, geographic treatment, biography",3
+271,Religious orders in church history,3
+272,Persecutions in general church history,3
+273,Doctrinal controversies & heresies,3
+274,History of Christianity in Europe,3
+275,History of Christianity in Asia,3
+276,History of Christianity in Africa,3
+277,History of Christianity in North America,3
+278,History of Christianity in South America,3
+279,History of Christianity in other areas,3
+280,Denominations & sects of Christian church,3
+281,Early church and Eastern churches,3
+282,Roman Catholic Church,3
+283,Anglican churches,3
+284,Protestants of Continental origin,3
+285,"Presbyterian, Reformed & Congregational",3
+286,"Baptist, Restoration & Adventist",3
+287,Methodist and related churches,3
+288,[Unassigned],3
+289,Other denominations and sects,3
+290,Other religions,3
+291,[Unassigned],3
+292,Classical religion (Greek & Roman religion),3
+293,Germanic religion,3
+294,Religions of Indic origin,3
+295,"Zoroastrianism (Mazdaism, Parseeism)",3
+296,Judaism,3
+297,"Islam, Babism & Bahai Faith",3
+298,(Optional number),3
+299,Religions not provided for elsewhere,3
+300,Social sciences,3
+301,Sociology and anthropology,3
+302,Social interaction,3
+303,Social processes,3
+304,Factors affecting social behavior,3
+305,Groups of people,3
+306,Culture and institutions,3
+307,Communities,3
+308,[Unassigned],3
+309,[Unassigned],3
+310,Collections of general statistics,3
+311,[Unassigned],3
+312,[Unassigned],3
+313,[Unassigned],3
+314,General statistics of Europe,3
+315,General statistics of Asia,3
+316,General statistics of Africa,3
+317,General statistics of North America,3
+318,General statistics of South America,3
+319,General statistics of other areas,3
+320,Political science (Politics and government),3
+321,Systems of governments and states,3
+322,Relation of state to organized groups,3
+323,Civil and political rights,3
+324,The political process,3
+325,International migration and colonization,3
+326,Slavery and emancipation,3
+327,International relations,3
+328,The legislative process,3
+329,[Unassigned],3
+330,Economics,3
+331,Labor economics,3
+332,Financial economics,3
+333,Economics of land and energy,3
+334,Cooperatives,3
+335,Socialism and related systems,3
+336,Public finance,3
+337,International economics,3
+338,Production,3
+339,Macroeconomics and related topics,3
+340,Law,3
+341,Law of nations,3
+342,Constitutional and administrative law,3
+343,"Military, tax, trade & industrial law",3
+344,"Labor, social, education & cultural law",3
+345,Criminal law,3
+346,Private law,3
+347,Procedure and courts,3
+348,"Laws, regulations, cases",3
+349,Law of specific jurisdictions & areas,3
+350,Public administration and military science,3
+351,Public administration,3
+352,General considerations of public administration,3
+353,Specific fields of public administration,3
+354,Administration of economy & environment,3
+355,Military science,3
+356,Foot forces & warfare,3
+357,Mounted forces & warfare,3
+358,Air & other specialized forces,3
+359,Sea forces and warfare,3
+360,Social problems and services; associations,3
+361,Social problems and services,3
+362,Social problems and services to groups,3
+363,Other social problems and services,3
+364,Criminology,3
+365,Penal and related institutions,3
+366,Secret associations and societies,3
+367,General clubs,3
+368,Insurance,3
+369,Associations,3
+370,Education,3
+371,Schools and their activities; special education,3
+372,Primary education (Elementary education),3
+373,Secondary education,3
+374,Adult education,3
+375,Curricula,3
+376,[Unassigned],3
+377,[Unassigned],3
+378,Higher education (Tertiary education),3
+379,Public policy issues in education,3
+380,"Commerce, communications, transportation",3
+381,Commerce (Trade),3
+382,International commerce (Foreign trade),3
+383,Postal communication,3
+384,Communications,3
+385,Railroad transportation,3
+386,Inland waterway and ferry transportation,3
+387,"Water, air, space transportation",3
+388,Transportation,3
+389,Metrology and standardization,3
+390,"Customs, etiquette, folklore",3
+391,Costume and personal appearance,3
+392,Customs of life cycle and domestic life,3
+393,Death customs,3
+394,General customs,3
+395,Etiquette (Manners),3
+396,[Unassigned],3
+397,[Unassigned],3
+398,Folklore,3
+399,Customs of war and diplomacy,3
+400,Language,3
+401,Philosophy and theory,3
+402,Miscellany,3
+403,Dictionaries & encyclopedias,3
+404,Special topics of language,3
+405,Serial publications,3
+406,Organizations and management,3
+407,"Education, research, related topics",3
+408,Groups of people,3
+409,Geographic treatment and biography,3
+410,Linguistics,3
+411,Writing systems,3
+412,Etymology,3
+413,Dictionaries,3
+414,Phonology & phonetics,3
+415,Grammar,3
+416,[Unassigned],3
+417,Dialectology and historical linguistics,3
+418,Applied linguistics,3
+419,Sign languages,3
+420,English & Old English (Anglo-Saxon),3
+421,"Writing system, phonology, phonetics",3
+422,Etymology of standard English,3
+423,Dictionaries of standard English,3
+424,[Unassigned],3
+425,Grammar of standard English,3
+426,[Unassigned],3
+427,English language variations,3
+428,Standard English usage,3
+429,Old English (Anglo-Saxon),3
+430,German and related languages,3
+431,"Writing system, phonology, phonetics",3
+432,Etymology of standard German,3
+433,Dictionaries of standard German,3
+434,[Unassigned],3
+435,Grammar of standard German,3
+436,[Unassigned],3
+437,German language variations,3
+438,Standard German usage,3
+439,Other Germanic languages,3
+440,French & related Romance languages,3
+441,"Writing system, phonology, phonetics",3
+442,Etymology of standard French,3
+443,Dictionaries of standard French,3
+444,[Unassigned],3
+445,Grammar of standard French,3
+446,[Unassigned],3
+447,French language variations,3
+448,Standard French usage,3
+449,"Occitan, Catalan, Franco-Provençal",3
+450,"Italian, Romanian & related languages",3
+451,"Writing system, phonology, phonetics",3
+452,Etymology of standard Italian,3
+453,Dictionaries of standard Italian,3
+454,[Unassigned],3
+455,Grammar of standard Italian,3
+456,[Unassigned],3
+457,Italian language variations,3
+458,Standard Italian usage,3
+459,"Romanian, Rhaetian, Sardinian, Corsican",3
+460,"Spanish, Portuguese, Galician",3
+461,"Writing system, phonology, phonetics",3
+462,Etymology of standard Spanish,3
+463,Dictionaries of standard Spanish,3
+464,[Unassigned],3
+465,Grammar of standard Spanish,3
+466,[Unassigned],3
+467,Spanish language variations,3
+468,Standard Spanish usage,3
+469,Portuguese,3
+470,Latin and related Italic languages,3
+471,"Writing system, phonology, phonetics",3
+472,Etymology of classical Latin,3
+473,Dictionaries of classical Latin,3
+474,[Unassigned],3
+475,Grammar of classical Latin,3
+476,[Unassigned],3
+477,"Old, postclassical, Vulgar Latin",3
+478,Classical Latin usage,3
+479,Other Italic languages,3
+480,Classical Greek; Hellenic languages,3
+481,"Writing system, phonology, phonetics",3
+482,Etymology of classical Greek,3
+483,Dictionaries of classical Greek,3
+484,[Unassigned],3
+485,Grammar of classical Greek,3
+486,[Unassigned],3
+487,Preclassical and postclassical Greek,3
+488,Classical Greek usage,3
+489,Other Hellenic languages,3
+490,Other languages,3
+491,East Indo-European and Celtic languages,3
+492,Afro-Asiatic languages,3
+493,Non-Semitic Afro-Asiatic languages,3
+494,"Altaic, Uralic, Hyperborean & Dravidian",3
+495,Languages of east and southeast Asia,3
+496,African languages,3
+497,North American native languages,3
+498,South American native languages,3
+499,Austronesian & other languages,3
+500,Natural sciences and mathematics,3
+501,Philosophy and theory,3
+502,Miscellany,3
+503,Dictionaries & encyclopedias,3
+504,[Unassigned],3
+505,Serial publications,3
+506,Organizations and management,3
+507,"Education, research, related topics",3
+508,Natural history,3
+509,"History, geographic treatment, biography",3
+510,Mathematics,3
+511,General principles of mathematics,3
+512,Algebra,3
+513,Arithmetic,3
+514,Topology,3
+515,Analysis,3
+516,Geometry,3
+517,[Unassigned],3
+518,Numerical analysis,3
+519,Probabilities and applied mathematics,3
+520,Astronomy and allied sciences,3
+521,Celestial mechanics,3
+522,"Techniques, equipment & materials",3
+523,Specific celestial bodies and phenomena,3
+524,[Unassigned],3
+525,Earth (Astronomical geography),3
+526,Mathematical geography,3
+527,Celestial navigation,3
+528,Ephemerides,3
+529,Chronology,3
+530,Physics,3
+531,Classical mechanics,3
+532,Fluid mechanics,3
+533,Pneumatics (Gas mechanics),3
+534,Sound and related vibrations,3
+535,Light and related radiation,3
+536,Heat,3
+537,Electricity and electronics,3
+538,Magnetism,3
+539,Modern physics,3
+540,Chemistry and allied sciences,3
+541,Physical chemistry,3
+542,"Techniques, equipment & materials",3
+543,Analytical chemistry,3
+544,[Unassigned],3
+545,[Unassigned],3
+546,Inorganic chemistry,3
+547,Organic chemistry,3
+548,Crystallography,3
+549,Mineralogy,3
+550,Earth sciences,3
+551,"Geology, hydrology, meteorology",3
+552,Petrology,3
+553,Economic geology,3
+554,Earth sciences of Europe,3
+555,Earth sciences of Asia,3
+556,Earth sciences of Africa,3
+557,Earth sciences of North America,3
+558,Earth sciences of South America,3
+559,Earth sciences of other areas,3
+560,Paleontology,3
+561,Paleobotany; fossil microorganisms,3
+562,Fossil invertebrates,3
+563,Fossil marine & seashore invertebrates,3
+564,Fossil Mollucas & Molluscoidea,3
+565,Fossil Arthropoda,3
+566,Fossil Chordata,3
+567,Fossil cold-blooded vertebrates,3
+568,Fossil Aves (birds),3
+569,Fossil Mammalia,3
+570,Biology,3
+571,Physiology & related subjects,3
+572,Biochemistry,3
+573,Specific physiological systems in animals,3
+574,[Unassigned],3
+575,Specific parts of & systems in plants,3
+576,Genetics and evolution,3
+577,Ecology,3
+578,Natural history of organisms,3
+579,"Microorganisms, fungi & algae",3
+580,Plants,3
+581,Specific topics in natural history of plants,3
+582,Plants noted for characteristics & flowers,3
+583,Eudicots and Ceratophyllales,3
+584,"Monocots, Chloranthales, magnoliids",3
+585,Pinophyta,3
+586,Cryptogamia,3
+587,Pteridophyta,3
+588,Bryophyta,3
+589,[Unassigned],3
+590,Animals,3
+591,Specific topics in natural history of animals,3
+592,Invertebrates,3
+593,Marine & seashore invertebrates,3
+594,Mollusca and Molluscoidea,3
+595,Arthropoda,3
+596,Chordata,3
+597,Cold-blooded vertebrates,3
+598,Aves,3
+599,Mammalia,3
+600,Technology (Applied sciences),3
+601,Philosophy and theory,3
+602,Miscellany,3
+603,"Dictionaries, encyclopedias, concordances",3
+604,"Technical drawing, hazardous materials",3
+605,Serial publications,3
+606,Organizations,3
+607,"Education, research, related topics",3
+608,Patents,3
+609,"History, geographic treatment, biography",3
+610,Medicine and health,3
+611,"Human anatomy, cytology, histology",3
+612,Human physiology,3
+613,Personal health & safety,3
+614,Forensic medicine; incidence of disease,3
+615,Pharmacology and therapeutics,3
+616,Diseases,3
+617,Surgery & related medical specialties,3
+618,"Gynecology, obstetrics, pediatrics, geriatrics",3
+619,[Unassigned],3
+620,Engineering and allied operations,3
+621,Applied physics,3
+622,Mining and related operations,3
+623,Military and nautical engineering,3
+624,Civil engineering,3
+625,Engineering of railroads and roads,3
+626,[Unassigned],3
+627,Hydraulic engineering,3
+628,Sanitary engineering,3
+629,Other branches of engineering,3
+630,Agriculture and related technologies,3
+631,"Techniques, equipment & materials",3
+632,"Plant injuries, diseases, pests",3
+633,Field and plantation crops,3
+634,"Orchards, fruits, forestry",3
+635,Garden crops (Horticulture),3
+636,Animal husbandry,3
+637,Processing dairy and related products,3
+638,Insect culture,3
+639,"Hunting, fishing & conservation",3
+640,Home and family management,3
+641,Food and drink,3
+642,Meals and table service,3
+643,Housing and household equipment,3
+644,Household utilities,3
+645,Household furnishings,3
+646,"Sewing, clothing & personal living",3
+647,Management of public households,3
+648,Housekeeping,3
+649,Child rearing & home care of people,3
+650,Management and auxiliary services,3
+651,Office services,3
+652,Processes of written communication,3
+653,Shorthand,3
+654,[Unassigned],3
+655,[Unassigned],3
+656,[Unassigned],3
+657,Accounting,3
+658,General management,3
+659,Advertising and public relations,3
+660,Chemical engineering,3
+661,Technology of industrial chemicals,3
+662,"Explosives, fuels & related products",3
+663,Beverage technology,3
+664,Food technology,3
+665,"Industrial oils, fats, waxes & gases",3
+666,Ceramic & allied technologies,3
+667,"Cleaning, color & coating technologies",3
+668,Technology of other organic products,3
+669,Metallurgy,3
+670,Manufacturing,3
+671,Metalworking & primary metal products,3
+672,"Iron, steel, other iron alloys",3
+673,Nonferrous metals,3
+674,"Lumber processing, wood products, cork",3
+675,Leather and fur processing,3
+676,Pulp and paper technology,3
+677,Textiles,3
+678,Elastomers and elastomer products,3
+679,Other products of specific materials,3
+680,Manufacture of products for specific uses,3
+681,Precision instruments and other devices,3
+682,Small forge work (Blacksmithing),3
+683,Hardware & household appliances,3
+684,Furnishings and home workshops,3
+685,"Leather, fur goods & related products",3
+686,Printing and related activities,3
+687,Clothing and accessories,3
+688,Other final products & packaging,3
+689,[Unassigned],3
+690,Construction of buildings,3
+691,Building materials,3
+692,Auxiliary construction practices,3
+693,Specific materials & purposes,3
+694,Wood construction,3
+695,Roof covering,3
+696,Utilities,3
+697,"Heating, ventilating & air-conditioning",3
+698,Detail finishing,3
+699,[Unassigned],3
+700,The arts,3
+701,Philosophy of fine & decorative arts,3
+702,Miscellany of fine and decorative arts,3
+703,Dictionaries of fine & decorative arts,3
+704,Special topics in fine and decorative arts,3
+705,Serial publications of fine & decorative arts,3
+706,Organizations & management,3
+707,"Education, research & related topics",3
+708,"Galleries, museums & private collections",3
+709,"History, geographic treatment, biography",3
+710,Area planning and landscape architecture,3
+711,Area planning (Civic art),3
+712,Landscape architecture (Landscape design),3
+713,Landscape architecture of trafficways,3
+714,Water features in landscape architecture,3
+715,Woody plants in landscape architecture,3
+716,Herbaceous plants,3
+717,Structures in landscape architecture,3
+718,Landscape design of cemeteries,3
+719,Natural landscapes,3
+720,Architecture,3
+721,Architectural materials and structure,3
+722,Architecture from earliest times to ca. 300,3
+723,Architecture from ca. 300 to 1399,3
+724,Architecture from 1400,3
+725,Public structures,3
+726,Buildings for religious and related purposes,3
+727,Buildings for education & research,3
+728,Residential and related buildings,3
+729,Design & decoration,3
+730,Sculpture and related arts,3
+731,"Processes, forms, subjects of sculpture",3
+732,Sculpture to ca. 500,3
+733,"Greek, Etruscan, Roman sculpture",3
+734,Sculpture from ca. 500 to 1399,3
+735,Sculpture from 1400,3
+736,Carving and carvings,3
+737,Numismatics and sigillography,3
+738,Ceramic arts,3
+739,Art metalwork,3
+740,Graphic arts and decorative arts,3
+741,Drawing and drawings,3
+742,Perspective in drawing,3
+743,Drawing and drawings by subject,3
+744,[Unassigned],3
+745,Decorative arts,3
+746,Textile arts,3
+747,Interior decoration,3
+748,Glass,3
+749,Furniture and accessories,3
+750,Painting and paintings,3
+751,"Techniques, equipment, materials & forms",3
+752,Color,3
+753,"Symbolism, allegory, mythology, legend",3
+754,Genre paintings,3
+755,Religion,3
+756,[Unassigned],3
+757,Human figures,3
+758,"Nature, cityscapes & other subjects",3
+759,"History, geographic treatment, biography",3
+760,Printmaking & prints,3
+761,Relief processes (Block printing),3
+762,[Unassigned],3
+763,Lithographic processes,3
+764,Chromolithography and serigraphy,3
+765,Metal engraving,3
+766,"Mezzotinting, aquatinting, related processes",3
+767,Etching and drypoint,3
+768,[Unassigned],3
+769,Prints,3
+770,"Photography, computer art, cinematography",3
+771,"Techniques, equipment & materials",3
+772,Metallic salt processes,3
+773,Pigment processes of printing,3
+774,Holography,3
+775,[Unassigned],3
+776,Computer art (Digital art),3
+777,Cinematography and videography,3
+778,Specific fields & kinds of photography,3
+779,Photographic images,3
+780,Music,3
+781,General principles and musical forms,3
+782,Vocal music,3
+783,Music for single voices,3
+784,Instruments & instrumental ensembles,3
+785,Ensembles with one instrument per part,3
+786,Keyboard & other instruments,3
+787,Stringed instruments (Chordophones),3
+788,Wind instruments (Aerophones),3
+789,(Optional number),3
+790,Recreational and performing arts,3
+791,Public performances,3
+792,Stage presentations,3
+793,Indoor games and amusements,3
+794,Indoor games of skill,3
+795,Games of chance,3
+796,Athletic and outdoor sports and games,3
+797,Aquatic and air sports,3
+798,Equestrian sports and animal racing,3
+799,"Fishing, hunting, shooting",3
+800,Literature (Belles-lettres) and rhetoric,3
+801,Philosophy and theory,3
+802,Miscellany,3
+803,Dictionaries & encyclopedias,3
+804,[Unassigned],3
+805,Serial publications,3
+806,Organizations and management,3
+807,"Education, research, related topics",3
+808,Rhetoric & collections of literature,3
+809,"History, description & criticism",3
+810,American literature in English,3
+811,American poetry in English,3
+812,American drama in English,3
+813,American fiction in English,3
+814,American essays in English,3
+815,American speeches in English,3
+816,American letters in English,3
+817,American humor and satire in English,3
+818,American miscellaneous writings,3
+819,(Optional number),3
+820,English & Old English literatures,3
+821,English poetry,3
+822,English drama,3
+823,English fiction,3
+824,English essays,3
+825,English speeches,3
+826,English letters,3
+827,English humor and satire,3
+828,English miscellaneous writings,3
+829,Old English (Anglo-Saxon) literature,3
+830,Literatures of Germanic languages,3
+831,German poetry,3
+832,German drama,3
+833,German fiction,3
+834,German essays,3
+835,German speeches,3
+836,German letters,3
+837,German humor and satire,3
+838,German miscellaneous writings,3
+839,Other Germanic literatures,3
+840,Literatures of Romance languages,3
+841,French poetry,3
+842,French drama,3
+843,French fiction,3
+844,French essays,3
+845,French speeches,3
+846,French letters,3
+847,French humor and satire,3
+848,French miscellaneous writings,3
+849,"Occitan, Catalan, Franco-Provençal",3
+850,"Italian, Romanian & related literatures",3
+851,Italian poetry,3
+852,Italian drama,3
+853,Italian fiction,3
+854,Italian essays,3
+855,Italian speeches,3
+856,Italian letters,3
+857,Italian humor and satire,3
+858,Italian miscellaneous writings,3
+859,Romanian & related literatures,3
+860,Spanish & Portuguese literatures,3
+861,Spanish poetry,3
+862,Spanish drama,3
+863,Spanish fiction,3
+864,Spanish essays,3
+865,Spanish speeches,3
+866,Spanish letters,3
+867,Spanish humor and satire,3
+868,Spanish miscellaneous writings,3
+869,Portuguese and Galician literatures,3
+870,Latin & related Italic literatures,3
+871,Latin poetry,3
+872,Latin dramatic poetry and drama,3
+873,Latin epic poetry and fiction,3
+874,Latin lyric poetry,3
+875,Latin speeches,3
+876,Latin letters,3
+877,Latin humor and satire,3
+878,Latin miscellaneous writings,3
+879,Literatures of other Italic languages,3
+880,Classical Greek & Hellenic literatures,3
+881,Classical Greek poetry,3
+882,Classical Greek dramatic poetry & drama,3
+883,Classical Greek epic poetry and fiction,3
+884,Classical Greek lyric poetry,3
+885,Classical Greek speeches,3
+886,Classical Greek letters,3
+887,Classical Greek humor and satire,3
+888,Classical Greek miscellaneous writings,3
+889,Modern Greek literature,3
+890,Literatures of other languages,3
+891,East Indo-European and Celtic literatures,3
+892,Afro-Asiatic literatures,3
+893,Non-Semitic Afro-Asiatic literatures,3
+894,"Altaic, Uralic, Hyperborean & Dravidian",3
+895,Literatures of East and Southeast Asia,3
+896,African literatures,3
+897,North American native literatures,3
+898,South American native literatures,3
+899,Austronesian & other literatures,3
+900,History & geography,3
+901,Philosophy and theory of history,3
+902,Miscellany of history,3
+903,Dictionaries & encyclopedias,3
+904,Collected accounts of events,3
+905,Serial publications of history,3
+906,Organizations & management,3
+907,"Education, research & related topics",3
+908,Groups of people,3
+909,World history,3
+910,Geography and travel,3
+911,Historical geography,3
+912,Maps and plans of surface of earth,3
+913,Geography of & travel in ancient world,3
+914,Geography of and travel in Europe,3
+915,Geography of and travel in Asia,3
+916,Geography of and travel in Africa,3
+917,Geography of & travel in North America,3
+918,Geography of & travel in South America,3
+919,Geography of and travel in other areas,3
+920,"Biography, genealogy, insignia",3
+921,(Optional number),3
+922,(Optional number),3
+923,(Optional number),3
+924,(Optional number),3
+925,(Optional number),3
+926,(Optional number),3
+927,(Optional number),3
+928,(Optional number),3
+929,"Genealogy, names & insignia",3
+930,History of ancient world to ca. 499,3
+931,China to 420,3
+932,Egypt to 640,3
+933,Palestine to 70,3
+934,India to 647,3
+935,Mesopotamia & Iranian Plateau to 637,3
+936,Europe north & west of Italy to ca. 499,3
+937,Italy & adjacent territories to 476,3
+938,Greece to 323,3
+939,Other parts of ancient world,3
+940,History of Europe,3
+941,British Isles,3
+942,England and Wales,3
+943,Germany & central Europe,3
+944,France and Monaco,3
+945,"Italy, San Marino, Vatican City, Malta",3
+946,"Spain, Andorra, Gibraltar, Portugal",3
+947,Russia & east Europe,3
+948,Scandinavia and Finland,3
+949,Other parts of Europe,3
+950,History of Asia,3
+951,China and adjacent areas,3
+952,Japan,3
+953,Arabian Peninsula and adjacent areas,3
+954,India & south Asia,3
+955,Iran,3
+956,Middle East (Near East),3
+957,Siberia (Asiatic Russia),3
+958,Central Asia,3
+959,Southeast Asia,3
+960,History of Africa,3
+961,Tunisia and Libya,3
+962,"Egypt, Sudan, South Sudan",3
+963,Ethiopia and Eritrea,3
+964,"Morocco, Ceuta, Melilla, Western Sahara",3
+965,Algeria,3
+966,West Africa and offshore islands,3
+967,Central Africa and offshore islands,3
+968,South Africa & southern Africa,3
+969,South Indian Ocean islands,3
+970,History of North America,3
+971,Canada,3
+972,"Mexico, Central America, West Indies",3
+973,United States,3
+974,Northeastern United States,3
+975,Southeastern United States,3
+976,South central United States,3
+977,North central United States,3
+978,Western United States,3
+979,Great Basin & Pacific Slope region,3
+980,History of South America,3
+981,Brazil,3
+982,Argentina,3
+983,Chile,3
+984,Bolivia,3
+985,Peru,3
+986,Colombia and Ecuador,3
+987,Venezuela,3
+988,Guiana,3
+989,Paraguay and Uruguay,3
+990,History of other areas,3
+991,[Unassigned],3
+992,[Unassigned],3
+993,New Zealand,3
+994,Australia,3
+995,New Guinea & Melanesia,3
+996,Polynesia & Pacific Ocean islands,3
+997,Atlantic Ocean islands,3
+998,Arctic islands and Antarctica,3
+999,Extraterrestrial worlds,3
